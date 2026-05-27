@@ -7,11 +7,11 @@
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: :contentReference[oaicite:0]{index=0}  
-- 🧑‍💻 GitHub: github.com/AshishRajput18  
-- 🔗 LinkedIn: linkedin.com/in/ashishrajput18  
-- 🛒 Fiverr (Freelance Services): :contentReference[oaicite:1]{index=1}  
-- 📧 Email: ashishrajput6768@gmail.com  
+- 💼 Portfolio: https://ashish-rajput-portfolio.lovable.app/  
+- 🧑‍💻 GitHub: https://github.com/AshishRajput18  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ashishrajput18  
+- 🛒 Fiverr: https://www.fiverr.com/s/Q7kLwpy  
+- 📧 Email: ashishrajput6768@gmail.com
 
 ---
 
