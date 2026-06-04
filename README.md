@@ -1,8 +1,24 @@
-# 👨‍💻 Ashish Rajput
+<h1 align="center">👨‍💻 Ashish Rajput</h1>
+<h3 align="center">🚀 Full Stack Developer | Java Engineer | MERN Stack Enthusiast</h3>
 
-### 🚀 Full Stack Developer | Java Engineer | MERN Stack Enthusiast
+<p align="center">
+  <em>Building scalable applications, solving real-world problems, and continuously learning modern technologies.</em>
+</p>
 
-> Building scalable applications, solving real-world problems, and continuously learning modern technologies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishrajput18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AshishRajput18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ashish-rajput-portfolio.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ashishrajput6768@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -10,159 +26,160 @@
 
 Hello! I'm **Ashish Rajput**, a passionate Full Stack Developer focused on creating efficient, scalable, and user-centric applications.
 
-* 💻 Specialized in **Java Full Stack Development** and **MERN Stack**
-* 🚀 Building modern web applications with clean architecture
-* 🌱 Currently exploring **System Design, Microservices, Docker, and AWS**
-* 🧠 Strong believer in writing maintainable and scalable code
-* 🔥 Consistently improving through DSA and real-world project development
-* 🤝 Open to internships, collaborations, and software engineering opportunities
-
----
-
-## 🌐 Let's Connect
-
-🔗 Portfolio: https://ashish-rajput-portfolio.lovable.app
-
-💼 LinkedIn: https://www.linkedin.com/in/ashishrajput18
-
-🐙 GitHub: https://github.com/AshishRajput18
-
-📧 Email: [ashishrajput6768@gmail.com](mailto:ashishrajput6768@gmail.com)
+- 💻 Specialized in **Java Full Stack Development** and **MERN Stack**
+- 🚀 Building modern web applications with clean architecture
+- 🌱 Currently exploring **System Design, Microservices, Docker, and AWS**
+- 🧠 Strong believer in writing maintainable and scalable code
+- 🔥 Consistently improving through DSA and real-world project development
+- 🤝 Open to internships, collaborations, and software engineering opportunities
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
-
-* Java
-* JavaScript
-* Python
-* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+</p>
 
 ### 🎨 Frontend Development
-
-* React.js
-* Angular
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+</p>
 
 ### ⚙️ Backend Development
-
-* Spring Boot
-* Spring Security
-* Hibernate
-* JPA
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate / JPA" />
+</p>
 
 ### 🗄️ Databases
-
-* MongoDB
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+</p>
 
 ### ☁️ Cloud & DevOps
-
-* Docker
-* Git & GitHub
-* Postman
-* Maven
-* AWS (Learning)
-* Render
-* Vercel
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS (Learning)" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 ShopNext - MERN E-Commerce Platform
+### 🛒 ShopNext — MERN E-Commerce Platform
+> Full-featured e-commerce platform with modern UI and payment integration.
+- ✅ JWT Authentication & Authorization
+- ✅ Admin Dashboard & Inventory Management
+- ✅ Cloudinary Image Uploads
+- ✅ Razorpay Payment Integration
+- ✅ Shopping Cart & Order Tracking
+- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Cloudinary`
 
-* JWT Authentication & Authorization
-* Admin Dashboard
-* Product & Inventory Management
-* Cloudinary Image Uploads
-* Razorpay Payment Integration
-* Shopping Cart & Order Tracking
-* Responsive Modern UI
+---
 
-### 🏦 Online Banking Management System (Java Full Stack)
+### 🏦 Online Banking Management System — Java Full Stack
+> Secure banking platform with account and transaction management.
+- ✅ Spring Boot & React.js
+- ✅ Secure User Authentication
+- ✅ Fund Transfer & Transaction History
+- ✅ Role-Based Access Control
+- **Stack:** `Spring Boot` `React.js` `Spring Security` `MySQL` `JWT`
 
-* Spring Boot & React.js
-* Secure User Authentication
-* Account Management System
-* Fund Transfer Functionality
-* Transaction History Tracking
-* Role-Based Access Control
-* MySQL Database Integration
+---
 
-### 🛍️ E-Commerce Platform (Java Full Stack)
+### 🛍️ E-Commerce Platform — Java Full Stack
+> Product catalog and order management system built with Java.
+- ✅ Product Catalog & Shopping Cart
+- ✅ User & Admin Dashboards
+- ✅ Secure REST APIs & Order Processing
+- **Stack:** `Spring Boot` `React.js` `MySQL` `JWT` `Hibernate`
 
-* Spring Boot + React.js
-* Product Catalog Management
-* Shopping Cart Functionality
-* User & Admin Dashboards
-* Secure REST APIs
-* Order Processing System
-* JWT Authentication & Authorization
+---
 
 ### 💬 Real-Time Chat Application
+> Live messaging app with presence detection.
+- ✅ Socket.IO Real-Time Messaging
+- ✅ Online/Offline User Status
+- ✅ Secure Authentication
+- **Stack:** `MERN` `Socket.IO`
 
-* MERN Stack
-* Socket.IO Integration
-* Real-Time Messaging
-* Online/Offline User Status
-* Secure Authentication
-* Responsive Chat Interface
+---
 
 ### 🎥 YouTube Clone
+> Video streaming UI powered by RapidAPI.
+- ✅ Video Search & Streaming
+- ✅ Category-Based Browsing
+- **Stack:** `React.js` `RapidAPI`
 
-* React.js
-* RapidAPI Integration
-* Video Search & Streaming
-* Category-Based Browsing
-* Responsive User Interface
+---
 
 ### 🤖 AI Cold Email Generator
+> AI-powered email automation tool.
+- ✅ AI-Powered Email Generation
+- ✅ Dynamic Prompt Engineering
+- **Stack:** `MERN` `AI/LLM`
 
-* MERN Stack
-* AI-Powered Email Generation
-* User Authentication
-* Dynamic Prompt Engineering
-* Automated Email Workflow
+---
 
 ### 💼 Job Portal Platform
+> End-to-end job posting and application system.
+- ✅ Job Posting & Application System
+- ✅ Role-Based Access Control
+- ✅ Advanced Job Filtering
+- **Stack:** `Full Stack` `REST API` `JWT`
 
-* Job Posting & Application System
-* User Authentication
-* Role-Based Access Control
-* Advanced Job Filtering
-* REST API Architecture
-* Responsive Design
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishRajput18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRajput18&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRajput18&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Growth Journey
 
-* 🔥 100+ LeetCode Problems Solved
-* 📚 Strong Foundation in Data Structures & Algorithms
-* 🚀 Multiple Full Stack Projects Built & Deployed
-* 💡 Continuous Learner of Modern Software Engineering Practices
+| 🏆 Achievement | Details |
+|---|---|
+| 🔥 LeetCode | 100+ Problems Solved |
+| 📚 DSA | Strong Foundation in Data Structures & Algorithms |
+| 🚀 Projects | 7+ Full Stack Projects Built & Deployed |
+| 💡 Learning | Continuously exploring System Design, Microservices, Docker, AWS |
 
 ---
 
 ## 🎯 Current Focus
 
 ```java
-while(alive){
-    Learn();
-    Build();
-    Improve();
-    Repeat();
+// Ashish's runtime loop
+while (alive) {
+    Learn();    // absorb new tech
+    Build();    // ship real projects
+    Improve();  // iterate & refine
+    Repeat();   // forever
 }
 ```
 
@@ -170,23 +187,17 @@ while(alive){
 
 ## 💭 Developer Philosophy
 
-> "Great software is not just about writing code; it's about solving problems efficiently."
+> *"Great software is not just about writing code; it's about solving problems efficiently."*
 
-> "Every project is an opportunity to learn, improve, and create impact."
-
----
-
-## 📊 GitHub Stats
-
-⭐ Building Projects
-🚀 Learning New Technologies
-💻 Solving Problems
-🌱 Growing Every Day
+> *"Every project is an opportunity to learn, improve, and create impact."*
 
 ---
 
-# Thanks for visiting my profile! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshishRajput18&color=1D9E75&style=for-the-badge&label=Profile+Views" />
+</p>
 
-If you like my work, feel free to connect, collaborate, or explore my repositories.
-
-### ⭐ Always Learning | Always Building | Always Improving
+<p align="center">
+  <b>⭐ Always Learning | Always Building | Always Improving</b><br/>
+  <em>Thanks for visiting! Feel free to connect, collaborate, or explore my repositories.</em>
+</p>
