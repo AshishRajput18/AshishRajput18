@@ -150,12 +150,16 @@ Hello! I'm **Ashish Rajput**, a passionate Full Stack Developer focused on creat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishRajput18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRajput18&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishRajput18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRajput18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRajput18&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AshishRajput18&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshishRajput18&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
