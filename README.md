@@ -147,16 +147,26 @@ Hello! I'm **Ashish Rajput**, a passionate Full Stack Developer focused on creat
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishRajput18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishRajput18&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishRajput18&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRajput18&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AshishRajput18&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-7%2B%20Deployed-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20MERN-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+---
 
 ---
 
